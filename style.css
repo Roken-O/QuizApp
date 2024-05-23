@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(191, 192, 196, 0.236) !important;
+    background-color: rgba(0, 0, 0, 0.1) !important;
     min-height: 100vh !important;
 }
 
@@ -25,4 +25,26 @@ body{
 
 .bg-success, .bg-danger{
     color: white !important;
+}
+
+.width-100{
+    width:100%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.fontende{
+    font-size: 32px;
+}
+.card-title{
+    height: 50px;
+}
+
+.button-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 24px;
 }
