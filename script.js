@@ -1,54 +1,53 @@
 let questions = [
   {
-    question: "Welches Tier miaut?",
-    answers: ["Hund", "Katze", "Kuh", "Vogel"],
-    correctAnswer: 1,
-  },
-  {
-    question: "Was isst ein Panda am liebsten?",
-    answers: ["Bambus", "Fleisch", "Obst", "Blätter"],
-    correctAnswer: 0,
-  },
-  {
-    question: "Welches dieser Tiere kann fliegen?",
-    answers: ["Hund", "Katze", "Fisch", "Vogel"],
-    correctAnswer: 3,
-  },
-  {
-    question: "Welches dieser Tiere ist das größte Säugetier?",
-    answers: ["Elefant", "Giraffe", "Wal", "Nilpferd"],
+    question: "Welches dieser Tiere lebt in Australien und springt?",
+    answers: ["Elefant", "Tiger", "Känguru", "Pinguin"],
     correctAnswer: 2,
   },
   {
-    question:
-      "Welches Tier lebt in einem Bau und sammelt Nüsse für den Winter?",
-    answers: ["Hase", "Eichhörnchen", "Fuchs", "Maulwurf"],
-    correctAnswer: 1,
-  },
-  {
-    question: "Welches Tier hat einen Rüssel?",
-    answers: ["Giraffe", "Löwe", "Tiger", "Elefant"],
+    question: "Welches dieser Tiere lebt in der Arktis und ist weiß?",
+    answers: ["Wolf", "Löwe", "Tiger", "Eisbär"],
     correctAnswer: 3,
   },
   {
-    question: "Wie viele Beine hat eine Spinne?",
-    answers: ["8", "6", "10", "12"],
+    question: "Welches Tier legt Eier und kann fliegen?",
+    answers: ["Huhn", "Pinguin", "Strauß", "Spatz"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Welches dieser Tiere hat Streifen?",
+    answers: ["Tiger", "Löwe", "Elefant", "Giraffe"],
     correctAnswer: 0,
   },
   {
-    question: "Was für ein Tier ist Bambi?",
-    answers: ["Kaninchen", "Bär", "Reh", "Fuchs"],
+    question: "Welches Tier ist bekannt dafür, sehr langsam zu sein?",
+    answers: ["Gepard", "Känguru", "Faultier", "Hase"],
     correctAnswer: 2,
   },
   {
-    question: "Welches dieser Tiere lebt im Wasser?",
-    answers: ["Känguru", "Adler", "Elefant", "Frosch"],
-    correctAnswer: 3,
+    question: "Was ist das kleinste Vogel der Welt?",
+    answers: ["Spatz", "Kolibri", "Adler", "Taube"],
+    correctAnswer: 1,
   },
   {
-    question: "Welches dieser Tiere kann seine Farbe ändern?",
-    answers: ["Zebra", "Chamäleon", "Papagei", "Löwe"],
+    question: "Welches dieser Tiere ist ein Fleischfresser?",
+    answers: ["Löwe", "Kuh", "Schaf", "Ziege"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Welches dieser Tiere hat einen langen Hals?",
+    answers: ["Zebra", "Elefant", "Giraffe", "Pferd"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Welches dieser Tiere lebt im Meer und hat Tentakel?",
+    answers: ["Wal", "Krake", "Seehund", "Delfin"],
     correctAnswer: 1,
+  },
+  {
+    question: "Welches dieser Tiere kann sehr weit springen?",
+    answers: ["Schlange", "Schildkröte", "Maulwurf", "Frosch"],
+    correctAnswer: 3,
   },
 ];
 

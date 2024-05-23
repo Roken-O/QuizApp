@@ -4,7 +4,7 @@ body{
 }
 
 .card-container{
-    height: 80vh;
+    height: 90vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -47,4 +47,21 @@ body{
     justify-content: center;
     align-items: center;
     margin: 24px;
+}
+
+@media (max-width:430px){
+    .card{
+        width: 20rem !important;
+    }
+    .quiz-answer-card{
+        width:100% !important;
+    }
+}
+@media (max-width:360px){
+    .card{
+        width: 18rem !important;
+    }
+    .quiz-answer-card{
+        width:100% !important;
+    }
 }
